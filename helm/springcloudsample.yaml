@@ -1,5 +1,5 @@
 {
-  url: jdbc:mysql://localhost:3306/devdb,
+    url: jdbc:mysql://localhost:3306/devdb,
     username: default_user,
     password: default_password
 }
