@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf49998b-34d3-43bd-a18c-38d3f0933cab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/helm/dev_values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/helm/dev_values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/dev_values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/helm/springcloudsample-dev.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
