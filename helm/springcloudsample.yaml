@@ -1,5 +1,4 @@
-{
-    url: jdbc:mysql://localhost:3306/defaultdb,
-    username: default_user,
-    password: default_password
-}
+    springcloudsample:
+     url: jdbc:mysql://localhost:3306/defaultdb,
+     username: default_user,
+     password: default_password
