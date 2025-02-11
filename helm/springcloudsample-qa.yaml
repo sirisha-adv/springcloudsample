@@ -1,0 +1,5 @@
+{
+    url: jdbc:mysql://localhost:3306/devdb,
+    username: dev_user,
+    password: dev_password
+}
