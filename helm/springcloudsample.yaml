@@ -1,4 +1,4 @@
     springcloudsample:
      url: jdbc:mysql://localhost:3306/defaultdb,
-     username: default_user,
+     username: default_user1,
      password: default_password
