@@ -1,4 +1,4 @@
 springcloudsample:
     url: jdbc:mysql://localhost:3306/qadb,
-    username: qa_user,
-    password: qa_password
+    username: qa1_user,
+    password: qa1_password
